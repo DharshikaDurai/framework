@@ -13,6 +13,11 @@ public class AxisBank extends BankInfo {
 			a.fixed();
 			a.saving();
 			a.deposit();
+			System.out.println("add the code to branch A ");
 			System.out.println("code B");
+
+			
+			
+
 		}
 		}
