@@ -13,6 +13,6 @@ public class AxisBank extends BankInfo {
 			a.fixed();
 			a.saving();
 			a.deposit();
-			
+			System.out.println("code B");
 		}
 		}
